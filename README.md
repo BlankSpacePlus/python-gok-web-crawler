@@ -1,2 +1,2 @@
-# python_wzny_internet_worm
-Python爬虫爬取“王者农药”全皮肤
+# python_gok_internet_worm
+Python爬虫爬取王者荣耀全皮肤
